@@ -8,22 +8,22 @@
 
 #header {
 		width: 100%;
-		height: 200px;
+		height: 100px;
 		background-color: #F2F0;
-		margin-bottom: 10px;
+		
 }
 
 #menue-top {
 		width: 100%;
 		height: 30px;
 		background-color: #999;
-           margin-bottom: 10px;
+        
 }
 
 #content {
 		width:100%;
 		height:600px;
-		background-color: #000000;
+		background-color: #E9E9E9;
 		float:left;
         margin-bottom: 10px;
 }
@@ -31,8 +31,7 @@
 #footer {
 		width: 100%;
 		height:20px;
-		background-color: #F0F3;
-		clear: both;
+	    clear: both;
 		
 		
 }
