@@ -61,7 +61,17 @@ body {
 		
        
 }
+#content article{
+		broder-bottom:1px dotted #CFCFCF;
+		margin-bottom:20px; 
+		
+		
+		
+}
 
+#content h1{
+	color: #B45F04;
+}
 #footer {
 	    margin-top: 50px;
 	    text-align: center;
@@ -74,10 +84,10 @@ body {
 .shadow {
 	-webkit-box-shadow: 2px 0px 10px #000;
 	-moz-box-shadow: 2px 0px 10px #000;
-	box-shadow: 2px 0px 10px #000;
+	 box-shadow: 2px 0px 10px #000;
 }
 .shadow-menu {
 	-webkit-box-shadow: 2px 0px 5px #000;
 	-moz-box-shadow: 2px 0px 5px #000;
-	box-shadow: 2px 0px 5px #000;
+	 box-shadow: 2px 0px 5px #000;
 }
