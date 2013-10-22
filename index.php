@@ -1,8 +1,8 @@
 <?php
 
- if(isset($_Get["section"]))
+ if(isset($_GET["section"]))
  {
-      $section = $_Get["section"];
+      $section = $_GET["section"];
  }
  else {
        $section = "";
