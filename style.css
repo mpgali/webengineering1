@@ -61,13 +61,12 @@ body {
 		
        
 }
-#content article{
-		broder-bottom:1px dotted #CFCFCF;
+#content article { 
+		border-bottom:1px dotted #CFCFCF;
 		margin-bottom:20px; 
 		
 		
-		
-}
+	}
 
 #content h1{
 	color: #B45F04;
