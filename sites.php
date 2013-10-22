@@ -8,7 +8,7 @@ case "impressum":
   break;
 
 default:
-     include("index.php");
+     include("home.php");
   break;
 }
 ?>
