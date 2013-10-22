@@ -14,5 +14,5 @@ include("impressum.php");
 default:
 include("home.php");
   break;
-{
+}
 ?>
