@@ -3,16 +3,16 @@
 switch ($section)
 {
 
-case "video":
- include("video.php");
+case "videos":
+     include("videos.php");
   break;
 
 case "impressum":
-include("impressum.php");
+      include("impressum.php");
   break;
 
 default:
-include("home.php");
+     include("home.php");
   break;
 }
 ?>
