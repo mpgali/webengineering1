@@ -6,9 +6,13 @@ switch ($section)
 case "impressum":
       include("impressum.php");
   break;
+  
+  case "test":
+      include("test.php");
+  break;
 
 default:
-     include("home.php");
+     include("index.php");
   break;
 }
 ?>
