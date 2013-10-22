@@ -38,7 +38,7 @@
 }
 
 .shadow {
-	-webkit-box-shadow: 0px 0px 5px  #000;
-	-moz-box-shadow: 0px 0px 5px  #000;
-	box-shadow: 0px 0px 5px  #000;
+	-webkit-box-shadow: 0px 0px 10px  #00000;
+	-moz-box-shadow: 0px 0px 10px  #00000;
+	box-shadow: 0px 0px 10px  #00000;
 }
