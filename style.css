@@ -26,9 +26,11 @@ body {
 }
 
 #content {
-		width:100%;
+		width:960%;
 		background-color: #F8F8F8;
 		margin-bottom: 10px;
+		padding-top:10px 10px 10px 10px;
+		
 		
        
 }
