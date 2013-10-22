@@ -2,5 +2,5 @@
     <li><a href="index.php">Home</a></li>
     <li></li>
     <li></li>
-    <li>Impressum</li>
+    <li>I<a href="impressum.php">Impressum</a></li>
 </ul>
