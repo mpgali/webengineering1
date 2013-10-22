@@ -20,11 +20,36 @@ body {
 
 #menue-top {
 		width: 100%;
-		height: 30px;
+		height: 15px;
 		background-color: #999;
+		text-transform: uppercase;
+		text-weight: bold;
+		text-family:Trebouchet MS,Arial;
+		text-align: center;
+		padding-top: 2px;
+		padding-bottom: 15px;
+		
+		
         
 }
 
+#menue-top ul {
+	margin: 0px;
+	padding: 0px;
+}
+#menue-top ul li {
+	list-style-type: none;
+}
+
+#menue-top ul li a{
+	list-style-type: none;
+	height: 15px;
+	width: 150px;
+	display: block;
+	float: left;
+	text-decoration: none;
+	
+}
 #content {
 		width:960px;
 		background-color: #F8F8F8;
