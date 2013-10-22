@@ -1,3 +1,15 @@
+<?php
+ if(isset($_Get["section"]))
+ {
+ $section =$_Get["section"];
+ }
+ else {
+       $section ="";
+ 
+ }
+ 
+
+?>
 <html>
 <head> 
 <meta charset="utf-8">
@@ -11,7 +23,7 @@
 <?php include ("menu.php"); ?>
 </div>
 <div id="content">
-<?php include ("home.php"); ?>
+<?php include ("sites.php"); ?>
 </div>
 </div>
 <div id="footer">
