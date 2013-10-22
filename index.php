@@ -1,10 +1,11 @@
 <?php
+
  if(isset($_Get["section"]))
  {
-      $section =$_Get["section"];
+      $section = $_Get["section"];
  }
  else {
-       $section ="";
+       $section = "";
  
  }
  
