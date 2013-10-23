@@ -1,5 +1,5 @@
 <h1>Impressum</h1><p>Angaben gemäß § 5 TMG:<br/><br/></p>
-<?php include("name.php"); ?>
+<?php require(name.php); ?>
 <h2>Kontakt:</h2>
 <?php include("email.php"); ?>
 <p>Quelle: <i><a rel="nofollow" href="http://www.e-recht24.de/impressum-generator.html">http://www.e-recht24.de</a></i></p>
