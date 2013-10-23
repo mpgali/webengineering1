@@ -2,9 +2,9 @@
 <p>
 
 <?php
-$email = "Frank Wollenweber";
+$name = "Frank Wollenweber";
 $textnr = 4;
-$textbreite = imagefontwidth($textnr) * strlen($email);
+$textbreite = imagefontwidth($textnr) * strlen($name);
 $texthoehe  = imagefontheight($textnr);
  
 header ("Content-type: image/png");
@@ -13,17 +13,13 @@ $bild = imagecreate ($textbreite , $texthoehe);
 $hintergund_farbe  = imagecolorallocate ($bild, 244, 244, 244);
 $text_farbe        = imagecolorallocate ($bild, 0, 0, 0);
  
-imagestring ($bild, $textnr, 0, 0, $email, $text_farbe);
+imagestring ($bild, $textnr, 0, 0, $name, $text_farbe);
 imagepng ($bild);
 ?>
-
-<br />
 </p>
 <h2>Kontakt:</h2>
 <table><tr>
 <tr><td>
-
-
 <?php
 $email = "system23@hotmail.de";
 $textnr = 4;
