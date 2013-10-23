@@ -1,15 +1,9 @@
 <h1>Impressum</h1><p>Angaben gemäß § 5 TMG:<br/><br/></p>
-<p>[Vorname] [Nachname]<br />
-[Straße]<br />
-[PLZ] [Ort]<br />
+<p>Frank Wollenweber<br />
 </p>
 <h2>Kontakt:</h2>
 <table><tr>
-<td><p>Telefon:</p></td>
-<td><p></p></td></tr>
-<tr><td><p>Telefax:</p></td>
-<td><p></p></td></tr>
-<tr><td><p>E-Mail:</p></td>
+<tr><td><p>E-Mail: system23@hotmail.de</p></td>
 <td><p></p></td>
 </tr></table>
 <p> </p>

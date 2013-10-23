@@ -15,7 +15,7 @@
 <head> 
 <meta charset="utf-8">
 <link rel="stylesheet" type="text/css" href="style.css">
-<title>Weblog: -=[WebEngineering Teil1]=-</title>
+<title>Weblog: -=[WebEngineering]=-</title>
 </head>
 <body>
 <div id="wrapper" class="shadow"> 
