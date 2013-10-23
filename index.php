@@ -9,7 +9,6 @@
  
  }
  
-header ("Content-type: image/png");
 ?>
 <html>
 <head> 

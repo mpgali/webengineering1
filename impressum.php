@@ -1,5 +1,19 @@
 <h1>Impressum</h1><p>Angaben gemäß § 5 TMG:<br/><br/></p>
-<?php include("../name.php"); ?>
+<?php
+$email = "system23@hotmail.de";
+$textnr = 4;
+$textbreite = imagefontwidth($textnr) * strlen($email);
+$texthoehe  = imagefontheight($textnr);
+ 
+//header ("Content-type: image/png");
+$bild2 = imagecreate ($textbreite , $texthoehe);
+ 
+$hintergund_farbe  = imagecolorallocate ($bild, 244, 244, 244);
+$text_farbe        = imagecolorallocate ($bild, 0, 0, 0);
+ 
+imagestring ($bild2, $textnr, 0, 0, $email, $text_farbe);
+imagepng ($bild2;
+?>
 <h2>Kontakt:</h2>
 <?php include("../email.php"); ?>
 <p>Quelle: <i><a rel="nofollow" href="http://www.e-recht24.de/impressum-generator.html">http://www.e-recht24.de</a></i></p>
