@@ -5,7 +5,26 @@ Name
 <h2>Kontakt:</h2>
 <table><tr>
 <tr><td>
+<?php
 
+    function emailPic($email)
+    {
+        header("Content-type:image/gif");
+
+        $image =        imagecreate (150,16);
+        $background =   imagecolorallocate($image,255,255,255);
+        $color =        imagecolorallocate($image,102,102,102);
+        $font =         "fonts/arial.ttf";
+
+        imageTTFtext($image,9,0,5,12,$color,$font,$email);
+        imagegif($image,"email.gif");
+    }
+
+    $email = "system23@hotmail.de";
+    
+   emailPic($email);
+    echo '[img]email.gif[/img]';
+?>
 
 </td>
 <td><p></p></td>
@@ -17,19 +36,4 @@ Name
 <p><i>Quellverweis: <a rel="nofollow" href="http://www.e-recht24.de/muster-disclaimer.htm" target="_blank">Disclaimer</a> von eRecht24, dem Portal zum Internetrecht von Rechtsanwalt Sören Siebert</i></p><h2>Datenschutzerklärung:</h2>
 <p><strong>Datenschutz</strong></p> <p>Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben. </p> <p>Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich. </p> <p>Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.</p><p> </p>
 <p><i>Quellverweis: <a rel="nofollow" href="http://www.e-recht24.de/muster-datenschutzerklaerung.htm" target="_blank">Datenschutzerklärung</a> von eRecht24, dem Portal zum Internetrecht von Rechtsanwalt Sören Siebert</i>
-<?php
-$email = "system23@hotmail.de";
-$textnr = 4;
-$textbreite = imagefontwidth($textnr) * strlen($email);
-$texthoehe  = imagefontheight($textnr);
- 
-header ("Content-type: image/png");
-$bild = imagecreate ($textbreite , $texthoehe);
- 
-$hintergund_farbe  = imagecolorallocate ($bild, 244, 244, 244);
-$text_farbe        = imagecolorallocate ($bild, 0, 0, 0);
- 
-imagestring ($bild, $textnr, 0, 0, $email, $text_farbe);
-imagepng ($bild);
-?>
 </p>
