@@ -1,10 +1,3 @@
-<h1>Impressum</h1><p>Angaben gemäß § 5 TMG:<br/><br/></p>
-<p>
-Name
-</p>
-<h2>Kontakt:</h2>
-<table><tr>
-<tr><td>
 <?php
 
     function emailPic($email)
@@ -25,6 +18,17 @@ Name
    emailPic($email);
     echo '[img]email.png[/img]';
 ?>
+
+
+
+<h1>Impressum</h1><p>Angaben gemäß § 5 TMG:<br/><br/></p>
+<p>
+Name
+</p>
+<h2>Kontakt:</h2>
+<table><tr>
+<tr><td>
+
 
 </td>
 <td><p></p></td>
