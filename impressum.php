@@ -1,21 +1,6 @@
 <h1>Impressum</h1><p>Angaben gemäß § 5 TMG:<br/><br/></p>
 <p>
-
-<?php
-$name = "Frank Wollenweber";
-$textnr = 4;
-$textbreite = imagefontwidth($textnr) * strlen($name);
-$texthoehe  = imagefontheight($textnr);
- 
-header ("Content-type: image/png");
-$bild = imagecreate ($textbreite , $texthoehe);
- 
-$hintergund_farbe  = imagecolorallocate ($bild, 244, 244, 244);
-$text_farbe        = imagecolorallocate ($bild, 0, 0, 0);
- 
-imagestring ($bild, $textnr, 0, 0, $name, $text_farbe);
-imagepng ($bild);
-?>
+Name
 </p>
 <h2>Kontakt:</h2>
 <table><tr>
