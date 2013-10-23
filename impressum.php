@@ -9,7 +9,7 @@ Name
 
     function emailPic($email)
     {
-        header("Content-type:image/gif");
+        //header("Content-type:image/gif");
 
         $image =        imagecreate (150,16);
         $background =   imagecolorallocate($image,255,255,255);
