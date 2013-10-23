@@ -4,7 +4,7 @@
 </p>
 <h2>Kontakt:</h2>
 <table>
-<tr><td><p>E-Mail: <img src="name.php"></p></td>
+<tr><td><p>E-Mail: <img src="email.php"></p></td>
 </tr></table>
 <h2>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</h2>
 <p>[Anschriften und Themengebiete der verantwortlichen Personen]</p>
