@@ -5,7 +5,7 @@
 <b>Projektbeschreibung</b></br></br>
 Ziel des Projektes ist es, die Länder eines Kontinents über das Internet zu präsentieren. Die Darstellung eines Landes soll mit den Mitteln von Multimedia bzw. WWW erfolgen. Neben einer Beschreibung des Landes in Textform sollen Bilder und Filme oder Java-Applets einen Eindruck von dem Land vermitteln. Die multimedialen Inhalte sollen dabei auf landestypische Eigenarten eingehen, mit denen sich ein Land identifizieren lässt.
 </br></br>
-<b>Strukturvorgaben</b></br></br>
+<b>Strukturvorgaben</b></br>
 Das Projekte soll auf HTML unter Verwendung von CSS basieren. Texte und multimediale Inhalte sollen in die HTML-Seiten eingefügt werden. 
 Die Grundstruktur der Seite soll wie folgt aussehen: </br>
 1. Ebene: Weltkarte als "image map" mit Links zu den Kontinenten
@@ -14,7 +14,7 @@ Die Grundstruktur der Seite soll wie folgt aussehen: </br>
 3. Ebene: Beschreibungsstartseite eines Landes</br>
 Bei großen Ländern, wie z.B. USA, kann es sinnvoll sein, an dieser Stelle eine Landeskarte einzubauen. Auf dieser Karte könnte man beim Anklicken der Hauptstadt eine Beschreibung des Landes bekommen und beim Anklicken der einzelnen Bundesstaaten eine kurze Beschreibung des Bundesstaates. 
 </br></br>
-<b>Vorgaben zur technischen Realisierung</b></br></br>
+<b>Vorgaben zur technischen Realisierung</b></br>
 Die Anzeige der Inhaltsseiten soll dynamisch erfolgen, d.h. die Inhaltsseiten sollen keine statischen HTML-Seiten sein.
 Auf dem Server sollen sich folgende Dateien befinden, mit deren Hilfe die Seiten abhängig von der jeweiligen Anfrage erzeugt werden sollen. Die Skripte sollen die nötigen Daten aus entsprechenden Dateien beziehen. 
 </br>
