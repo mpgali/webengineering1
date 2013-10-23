@@ -4,7 +4,7 @@ $textnr = 4;
 $textbreite = imagefontwidth($textnr) * strlen($email);
 $texthoehe  = imagefontheight($textnr);
  
-//header ("Content-type: image/png");
+header ("Content-type: image/png");
 $bild2 = imagecreate ($textbreite , $texthoehe);
  
 $hintergund_farbe  = imagecolorallocate ($bild, 244, 244, 244);
