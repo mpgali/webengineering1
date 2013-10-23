@@ -2,7 +2,7 @@
 
     function emailPic($email)
     {
-        //eader("Content-type:image/png");
+        header("Content-type:image/png");
 
         $image =        imagecreate (150,16);
         $background =   imagecolorallocate($image,255,255,255);
