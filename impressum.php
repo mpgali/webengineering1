@@ -1,6 +1,8 @@
 <h1>Impressum</h1><p>Angaben gemäß § 5 TMG:<br/><br/></p>
 <?php
-include("http://frankwollenweber.cloudcontrolled.com/name.php");
+<?php
+$name = include 'name.php';
+echo $name; 
 ?>
 <h2>Kontakt:</h2>
 <?php
