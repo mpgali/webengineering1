@@ -9,7 +9,7 @@ Name
 
     function emailPic($email)
     {
-        //header("Content-type:image/gif");
+        header("Content-type:image/png");
 
         $image =        imagecreate (150,16);
         $background =   imagecolorallocate($image,255,255,255);
@@ -17,13 +17,13 @@ Name
         $font =         "fonts/arial.ttf";
 
         imageTTFtext($image,9,0,5,12,$color,$font,$email);
-        imagegif($image,"email.gif");
+        imagegif($image,"email.png");
     }
 
     $email = "system23@hotmail.de";
     
    emailPic($email);
-    echo '[img]email.gif[/img]';
+    echo '[img]email.png[/img]';
 ?>
 
 </td>
