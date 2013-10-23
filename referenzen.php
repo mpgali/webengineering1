@@ -100,7 +100,7 @@ function makeThumb( $bild, $maxbreite = 100, $maxhoehe = 100, $quadratisch = fal
 }
 
 // Anwendungsbeispiel
-makeThumb( "image/thumbs/schweden.png", 90, 90, false );
+makeThumb( "./image/thumbs/schweden.png", 90, 90, false );
 
 ?>
 </article>
