@@ -27,16 +27,16 @@ Die Analyse der Textdateien ist jedoch auch mit herkömmlichen Mitteln realisier
 </p>
 <?php
 
-function makeThumb( $bild, $maxbreite = 100, $maxhoehe = 100, $quadratisch = false, $qualitaet = 80, $speichern = NULL )
+function makeThumb( $obild, $maxbreite = 100, $maxhoehe = 100, $quadratisch = false, $qualitaet = 80, $speichern = NULL )
 {
 	// Bilddaten auslesen
-	list( $original_breite, $original_hoehe, $typ, $imgtag, $bits, $channels, $mimetype ) = @getimagesize( $bild );
+	list( $original_breite, $original_hoehe, $typ, $imgtag, $bits, $channels, $mimetype ) = @getimagesize( $obild );
 	
 	switch ($typ)
 	{
-		case '1': $originalbild = imagecreatefromgif( $bild ); break;
-		case '2': $originalbild = imagecreatefromjpeg( $bild ); break;
-		case '3': $originalbild = imagecreatefrompng( $bild ); break;
+		case '1': $originalbild = imagecreatefromgif( $obild ); break;
+		case '2': $originalbild = imagecreatefromjpeg( $obild ); break;
+		case '3': $originalbild = imagecreatefrompng( $obild ); break;
 		default :
 			header( 'Content-Type: text/html; charset=utf-8' );
 			die( 'Die übergebene Datei ist keine Grafik!' );
