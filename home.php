@@ -1,7 +1,10 @@
 <article>
 <h1>Hallo Welt</h1>
 <p>
-Eine neue Webseite erblickt die Welt.Programmiert mit HTML5 und CSS.</p>
+Eine neue Webseite erblickt die Welt.Programmiert mit PHP,HTML5 und CSS3.</br>
+Dies ist Teil des MOOC " WebEngineering Teil1" der THM - Technische Hochschule Mittelhessen.
+
+</p>
 </article>
 <article>
 <h1>CLI Cheats</h1>
