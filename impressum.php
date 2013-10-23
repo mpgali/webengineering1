@@ -1,9 +1,46 @@
 <h1>Impressum</h1><p>Angaben gemäß § 5 TMG:<br/><br/></p>
-<p>Frank Wollenweber<br />
+<p>
+
+<?php
+$email = "Frank Wollenweber";
+$textnr = 4;
+$textbreite = imagefontwidth($textnr) * strlen($email);
+$texthoehe  = imagefontheight($textnr);
+ 
+header ("Content-type: image/png");
+$bild = imagecreate ($textbreite , $texthoehe);
+ 
+$hintergund_farbe  = imagecolorallocate ($bild, 222, 222, 222);
+$text_farbe        = imagecolorallocate ($bild, 0, 0, 0);
+ 
+imagestring ($bild, $textnr, 0, 0, $email, $text_farbe);
+imagepng ($bild);
+?>
+
+<br />
 </p>
 <h2>Kontakt:</h2>
 <table><tr>
-<tr><td><p>E-Mail: system23@hotmail.de</p></td>
+<tr><td>
+
+
+<?php
+$email = "system23@hotmail.de";
+$textnr = 4;
+$textbreite = imagefontwidth($textnr) * strlen($email);
+$texthoehe  = imagefontheight($textnr);
+ 
+header ("Content-type: image/png");
+$bild = imagecreate ($textbreite , $texthoehe);
+ 
+$hintergund_farbe  = imagecolorallocate ($bild, 222, 222, 222);
+$text_farbe        = imagecolorallocate ($bild, 0, 0, 0);
+ 
+imagestring ($bild, $textnr, 0, 0, $email, $text_farbe);
+imagepng ($bild);
+?>
+
+</td>
 <td><p></p></td>
 </tr></table>
 <p> </p>
