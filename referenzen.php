@@ -26,7 +26,7 @@ In der Praxis häufig anzutreffen ist eine tabellenartige Struktur. Die einzelne
 Das Auslesen dieser Dateien erfordert dann die Verwendung eines XML-Parsers. Solche Parser sind in der Java-Welt weit verbreitet und relativ einfach anzuwenden. Empfohlen wird an dieser Stelle die Verwendung von domj4. 
 Die Analyse der Textdateien ist jedoch auch mit herkömmlichen Mitteln realisierbar, wenn möglichst eindeutige Markierungen gewählt werden.
 </p>
-<p align="center">
+</br>
 <img src="image/thumbs/schweden-seite.php">
-</p>
+
 </article>
