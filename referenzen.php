@@ -87,8 +87,9 @@ Suche von Informationen kam der Firefox 9 zum Einsatz.
 <p align="center">
 <img src="image/thumbs/wlan-finder.png">
 </p>
+<p align="center">
 <img src="image/thumbs/programmstart.png">
 <img src="image/thumbs/lan-ip-scan-eingabe.png">
 <img src="image/thumbs/ping-eingabe.png">
-
+</p>
 </article>
