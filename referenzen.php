@@ -88,8 +88,6 @@ Suche von Informationen kam der Firefox 9 zum Einsatz.
 </p>
 <p align="center">
 <img src="image/thumbs/startbild.png">
-</p>
-<p align="center">
 <img src="image/thumbs/wlan-finder.png">
 </p>
 </article>
