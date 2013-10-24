@@ -19,8 +19,9 @@ body {
 		background-image: url(./image/header.png);
 		
 }
-.headertxt {
+#headertxt {
 		margin-top: 160px;
+		margin-left: 100px;
 	    font-family: Verdana,Arial, sans-serif;
 	    font-size: 20px;
 		

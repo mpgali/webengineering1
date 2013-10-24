@@ -18,7 +18,9 @@
 </head>
 <body>
 <div id="wrapper" class="shadow"> 
-<div id="header" class="headertxt">you left the platform in opposite direction</div>
+<div id="header">
+<div id="headertxt">you left the platform in opposite direction</div>
+</div>
 <div id="menue-top" class="shadow-menu">
 <?php include ("menu.php"); ?>
 </div>
