@@ -45,3 +45,41 @@ Erstellung einer Webseite zur Präsentation verschiedener grafischer Studienobje
 </p>
 </p>
 </article>
+<article>
+<h1>App für mobile Systeme</h1>
+<h3>Projektbeschreibung</h3>
+<p>Mit dem Netzwerk-Diagnose Tool ist es möglich verschiedene Informationen aus dem
+angebundenen Netzwerk auszulesen:</br>
+1. Eine Funktion befasst sich mit der Anzeige der lokalen IP-Adresse, sowie die
+dazugehörige externe bzw. öffentliche IP-Adresse.</br>
+2. Mit dem LAN-IP-Scanner ist es möglich, alle im Netzwerk aktive Rechner in einer
+Liste anzuzeigen. Dabei wird das lokale Netzwerk, indem das mobile Endgerät
+eingebunden ist, abgefragt ob hinter jeder IP, beginnend von 1-255, ein Rechner aktiv
+ist.</br>
+3. Die Ping-Funktion ermöglicht eine Überprüfung, ob ein bestimmter Host ( entweder
+im lokalen oder externen Netz ) erreichbar ist.</br>
+4. Der WiFi Finder ist zur Kontrolle von Wireless Local Area Network in der direkten
+Nähe.</br>
+5. Das letzte Tool liest allgemein die Mac-Adressen der zugehörigen IP-Adresse aus.</br>
+</p>
+<h4>Hardware</h4>
+<p>
+Es wurden von 2 Computer der neueren Generation zur Bearbeitung benutzt, ein Samsung
+i9000 mit Android Version 2.3.3 für Programm Tests.</p>
+<h4>Software</h4>
+<p>
+Auf einem PC wurde unter Windows 7 (64bit) die VMware Workstation 7.1.5 installiert, wo
+dann in der virtuellen Umgebung Ubuntu 11.10 zum Einsatz kam. Der Gedanke war, das man
+in einer Linux Umgebung besser programmieren kann und dadurch auch unabhängig vom
+Hauptrechner ist.</br>
+Nach der Installation von Ubuntu Linux wurden alle Updates eingespielt.</br>
+Im Weiteren wurde ein Eclipse der Version 3.7.0 (Indigo) installiert und über „Install New
+Software“ das Android SDK. Anschließend wurden die Updates für das Eclipse installiert und
+dieses auf den neusten Stand gebracht.</br>
+Das erste Android Projekt haben wir mit der Hilfe der Seite AndroidPIT [AndPit01] zum
+Laufen bekommen. Dadurch hatten wir den ersten Einstieg in die Android Programmierung
+bekommen.</br>
+Die Bildbearbeitung wurde mit Hilfe von Adobe Photoshop CS3 vorgenommen und zur
+Suche von Informationen kam der Firefox 9 zum Einsatz.
+</p>
+</article>
