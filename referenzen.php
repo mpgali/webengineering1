@@ -82,18 +82,13 @@ Die Bildbearbeitung wurde mit Hilfe von Adobe Photoshop CS3 vorgenommen und zur
 Suche von Informationen kam der Firefox 9 zum Einsatz.
 </p>
 <p align="center">
-<img src="image/thumbs/programmstart.png">
-</p>
-<p align="center">
 <img src="image/thumbs/startbild.png">
 </p>
 <p align="center">
 <img src="image/thumbs/wlan-finder.png">
 </p>
-<p align="center">
+<img src="image/thumbs/programmstart.png">
 <img src="image/thumbs/lan-ip-scan-eingabe.png">
-</p>
-<p align="center">
 <img src="image/thumbs/ping-eingabe.png">
-</p>
+
 </article>
