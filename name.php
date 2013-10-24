@@ -1,6 +1,6 @@
 <?php
 $name = "Frank Wollenweber";
-$textnr = 4;
+$textnr = 3;
 $textbreite = imagefontwidth($textnr) * strlen($name);
 $texthoehe  = imagefontheight($textnr);
  
