@@ -27,7 +27,7 @@ Das Auslesen dieser Dateien erfordert dann die Verwendung eines XML-Parsers. Sol
 Die Analyse der Textdateien ist jedoch auch mit herkömmlichen Mitteln realisierbar, wenn möglichst eindeutige Markierungen gewählt werden.
 </p>
 </br>
-<p align="center>
+<p align="center">
 <img src="image/thumbs/schweden-seite.png">
 </p>
 
