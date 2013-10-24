@@ -1,11 +1,11 @@
 <h1>Impressum</h1>
-<p>Angaben gemäß § 5 TMG:<br/><br/></p>
-<img src="name.php"> <br />
+<p>Angaben gemäß § 5 TMG:</p></br>
+<img src="name.php"><br />
 <h3>Kontakt:</h3>
-<p>E-Mail: <img src="email.php"></p></br>
+<p>E-Mail: </p><img src="email.php"></br>
 <h3>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</h3>
-<p>[Themengebiete der verantwortlichen Person]</p>
-<p>Alle Themengebiete auf dieser Seite: <img src="name.php"> </p>
+<p>[Themengebiete der verantwortlichen Person]</p></br>
+<p>Alle Themengebiete auf dieser Seite:</p> <img src="name.php"> </br>
 <p>Quelle: <i><a rel="nofollow" href="http://www.e-recht24.de/impressum-generator.html">http://www.e-recht24.de</a></i></p>
 <h3>Haftungsausschluss:</h3>
 <h4>Haftung für Inhalte</h4> 
