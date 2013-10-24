@@ -20,9 +20,9 @@
 <div id="wrapper" class="shadow"> 
 <div id="header"> <?PHP
 header("Content-Type: image/png");
-$image = imagecreatefromjpeg("image/header.png"); 
+$image = imagecreatefrompng("image/header.png"); 
 imagestring ($image,5,30,30,'text',2);
-imagejpeg($image);
+imagepng($image);
 imagedestroy($image)
 ?> </div>
 <div id="menue-top" class="shadow-menu">
