@@ -64,7 +64,7 @@ Nähe.</br>
 </p>
 <h4>Hardware</h4>
 <p>
-Es wurden von 2 Computer der neueren Generation zur Bearbeitung benutzt, ein Samsung
+Es wurden 2 Computer der neueren Generation zur Bearbeitung benutzt, ein Samsung
 i9000 mit Android Version 2.3.3 für Programm Tests.</p>
 <h4>Software</h4>
 <p>
