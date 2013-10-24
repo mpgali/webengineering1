@@ -18,7 +18,8 @@
 </head>
 <body>
 <div id="wrapper" class="shadow"> 
-<div id="header"> <?PHP
+<div id="header"> 
+<?php
 header("Content-Type: image/png");
 $image = imagecreatefrompng("image/header.png"); 
 imagestring ($image,5,30,30,'text',2);
