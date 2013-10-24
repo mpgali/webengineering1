@@ -22,7 +22,7 @@
 header("Content-Type: image/png");
 $image = imagecreatefrompng("image/header.png"); 
 imagestring ($image,5,30,30,'text',2);
-imagepng($image);
+imagePNG($image);
 imagedestroy($image)
 ?> </div>
 <div id="menue-top" class="shadow-menu">
