@@ -36,7 +36,7 @@ Die Analyse der Textdateien ist jedoch auch mit herkömmlichen Mitteln realisier
 <h1>Mediendesign</h1>
 <h3>Projektbeschreibung</h3>
 <p>
-Erstellung einer Webseite zur Präsentation verschiedener Werke.</p>
+Erstellung einer Webseite zur Präsentation verschiedener grafischer Studienobjekte.</p>
 </br>
 <p align="center">
 <img src="image/thumbs/md2-1.png">
