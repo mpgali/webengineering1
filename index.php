@@ -18,9 +18,13 @@
 </head>
 <body>
 <div id="wrapper" class="shadow"> 
-<div id="header">
-<div id="headertxt">you left the platform in opposite direction</div>
-</div>
+<div id="header"> <?PHP
+header("Content-Type: image/jpeg");
+$image = imagecreatefromjpeg("image/header.png"); 
+imagestring ($image,5,30,30,'text',2);
+imagejpeg($image);
+imagedestroy($image)
+?> </div>
 <div id="menue-top" class="shadow-menu">
 <?php include ("menu.php"); ?>
 </div>
