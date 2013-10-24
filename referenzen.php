@@ -28,7 +28,7 @@ Die Analyse der Textdateien ist jedoch auch mit herkömmlichen Mitteln realisier
 </p>
 </br>
 <p align="center">
-<img src="image/thumbs/schweden-seite.png">
+<a href="http://wp.vfh.fh-wolfenbuettel.de/~wfg855/"><img src="image/thumbs/schweden-seite.png"></a>
 </p>
 
 </article>
