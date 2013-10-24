@@ -18,14 +18,7 @@
 </head>
 <body>
 <div id="wrapper" class="shadow"> 
-<div id="header"> 
-<?php
-header("Content-Type: image/png");
-$image = imagecreatefrompng("image/header.png"); 
-imagestring ($image,5,30,30,'text',2);
-imagePNG($image);
-imagedestroy($image)
-?> </div>
+<div id="header"></div>
 <div id="menue-top" class="shadow-menu">
 <?php include ("menu.php"); ?>
 </div>
