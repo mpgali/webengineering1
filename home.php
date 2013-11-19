@@ -1,4 +1,19 @@
 <article>
+<h1> Lerne zu coden bei www.codecademy.com</h1>
+<p>Diese Lernplattform bietet die Möglichkeit folgendes interaktiv zu lernen:<br>
+<ol>
+<li>JavaScript</li>
+<li>Html/CSS</li>
+<li>PHP</li>
+<li>Python</li>
+<li>Ruby</li>
+<li>APIs</li>
+</ol>
+<br>
+Netzverweis: <a href="http://www.codecademy.com" target="_blank">http://www.codecademy.com</a><br>
+</p>
+</article>
+<article>
 <h1>Virtuelle Maschinen</h1>
 <h3>Oracle VM VirtualBox</h3>
 <p>
