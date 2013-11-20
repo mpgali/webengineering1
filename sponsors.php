@@ -4,5 +4,5 @@
 <a href="https://iversity.org" title="Education.Free.Online"><img src="image/iversity.png"></a>&nbsp;
 <a href="https://github.com" title="GitHub-Build Software better,together."><img src="image/github.png"></a>&nbsp;
 <a href="http://www.uberspace.de" title="Hosting on Asteroids"><img src="image/uberspace.png"></a>&nbsp;
-<a href="http://www.coecademy.com" title="Codecademy,teaching the to code"><img src="image/codecademy.png"></a>&nbsp;
+<a href="http://www.coecademy.com" title="Codecademy,teaching the world to code"><img src="image/codecademy.png"></a>&nbsp;
 </p>
