@@ -70,6 +70,6 @@ Dies ist Teil des MOOC " WebEngineering Teil1" der THM - Technische Hochschule M
 <p>Kommandos zum Upload in die Cloud:<br />
 - git add *<br />
 - git commit -m"Commit 1"<br />
-- ccrtlapp [Benutzername] push<br />
+- cctrlapp [Benutzername] push<br />
 - cctrlapp [Benutzername] deploy<br /></p>
 </article>
