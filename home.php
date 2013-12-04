@@ -25,7 +25,7 @@ Oracle VM VirtualBox von Oracle ist eine Virtualisierungssoftware für FreeBSD, 
 </p>
 <h4>VMware vSphere</h4>
 <p>VMware vSphere ist eine Sammlung von Software-Produkten und Features für den Bereich der Rechenzentrums- und Servervirtualisierung. Am häufigsten werden bei der Virtualisierung von Betriebssystemen in Rechenzentren mit Software von VMware die grundlegenden Produkte VMware ESXi und der VMware vCenter Server eingesetzt. Der VMware ESXi ist der Hypervisor, der die Virtualisierung ermöglicht und der VMware vCenter Server ist die darauf aufbauende Management-Schnittstelle, welche es auch ermöglicht weitere Produkte (z. B. VMware vCenter Site Recovery Manager, VMware vCenter Operations Manager) und Funktionen (z. B. VMware vMotion, VMware HA, VMware DRS) zu aktivieren. VMware vSphere bildet außerdem die Grundlage für den Aufbau einer Cloud Umgebung mit VMware Software (VMware vCloud Director).<br>
-[Quelle:<a href="http://de.wikipedia.org/wiki/VMware" title="VMware">http://de.wikipedia.org/wiki/VMware</a>]</br></p>
+[Quelle:<a href="http://de.wikipedia.org/wiki/VMware" title="VMware">http://de.wikipedia.org/wiki/VMware</a>]<br></p>
 
 </article>
 <article>
