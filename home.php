@@ -1,6 +1,7 @@
 <article>
 <h1> Lerne zu coden bei www.codecademy.com</h1>
 <p>Diese Lernplattform bietet die Möglichkeit folgendes interaktiv zu lernen:<br>
+</p>
 <ol>
 <li>JavaScript</li>
 <li>Html/CSS</li>
@@ -10,23 +11,21 @@
 <li>APIs</li>
 </ol>
 <br>
+<p>
 Netzverweis: <a href="http://www.codecademy.com" target="_blank">http://www.codecademy.com</a><br>
 </p>
 </article>
 <article>
 <h1>Virtuelle Maschinen</h1>
 <h3>Oracle VM VirtualBox</h3>
-<p>
-Oracle VM VirtualBox von Oracle ist eine Virtualisierungssoftware für FreeBSD, Linux, OS/2, Mac OS X, Solaris und Windows als Wirtssystem auf 32-Bit- oder 64-Bit-x86-Systemen. Als Gastsysteme werden eine Vielzahl an x86-Betriebssystemen unterstützt, welche bei der Einrichtung einer neuen virtuellen Maschine zur Auswahl stehen.<br>
+<p>Oracle VM VirtualBox von Oracle ist eine Virtualisierungssoftware für FreeBSD, Linux, OS/2, Mac OS X, Solaris und Windows als Wirtssystem auf 32-Bit- oder 64-Bit-x86-Systemen. Als Gastsysteme werden eine Vielzahl an x86-Betriebssystemen unterstützt, welche bei der Einrichtung einer neuen virtuellen Maschine zur Auswahl stehen.<br>
 [Quelle:<a href="http://de.wikipedia.org/wiki/VirtualBox" title="Virtual Box">http://de.wikipedia.org/wiki/VirtualBox</a>]<br /></p>
 <h3>VMware</h3>
 <h4>VMware Workstation</h4>
-<p>VMware Workstation ist das erste Produkt von VMware. Es ermöglicht die Virtualisierung von Betriebssystemen und ist heute auf Endanwender ausgerichtet.
-</p>
+<p>VMware Workstation ist das erste Produkt von VMware. Es ermöglicht die Virtualisierung von Betriebssystemen und ist heute auf Endanwender ausgerichtet.</p>
 <h4>VMware vSphere</h4>
 <p>VMware vSphere ist eine Sammlung von Software-Produkten und Features für den Bereich der Rechenzentrums- und Servervirtualisierung. Am häufigsten werden bei der Virtualisierung von Betriebssystemen in Rechenzentren mit Software von VMware die grundlegenden Produkte VMware ESXi und der VMware vCenter Server eingesetzt. Der VMware ESXi ist der Hypervisor, der die Virtualisierung ermöglicht und der VMware vCenter Server ist die darauf aufbauende Management-Schnittstelle, welche es auch ermöglicht weitere Produkte (z. B. VMware vCenter Site Recovery Manager, VMware vCenter Operations Manager) und Funktionen (z. B. VMware vMotion, VMware HA, VMware DRS) zu aktivieren. VMware vSphere bildet außerdem die Grundlage für den Aufbau einer Cloud Umgebung mit VMware Software (VMware vCloud Director).<br>
 [Quelle:<a href="http://de.wikipedia.org/wiki/VMware" title="VMware">http://de.wikipedia.org/wiki/VMware</a>]<br></p>
-
 </article>
 <article>
 <h1>Git CLI Cheats</h1>
