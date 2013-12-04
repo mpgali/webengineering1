@@ -56,7 +56,6 @@ Zum Üben der Kommandos <a href="http://try.github.io/levels/1/challenges/1" tit
 Literatur zum Vertiefen Git-eBook: <a href="http://www.git-scm.com/book/de" title="Git-Handbuch">http://www.git-scm.com/book/de</a>
 <br>
 </p>
-
 </article>
 <article>
 <h1>Hallo Welt</h1>
