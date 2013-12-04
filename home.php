@@ -35,7 +35,7 @@ Zur Konfiguration von Git die folgenden Befehle eingeben:<br>
 <br>
 - git config -global user.name "Vorname Nachname"<br>
 - git config -global user.email "vorname.nachname@mail.de"<br>
-- git config -global color.ui auto</br>
+- git config -global color.ui auto<br>
 <br>
 - <strong>git status</strong> fragt den Status des Git-Repositorys ab<br>
 <br>
@@ -55,7 +55,7 @@ Die grüne Farbe hingegen zeigt an, dass die Datei von Git überwacht wird.<br>
 Zum Üben der Kommandos <a href="http://try.github.io/levels/1/challenges/1" title="try Git">http://try.github.io</a><br>
 Literatur zum Vertiefen Git-eBook: <a href="http://www.git-scm.com/book/de" title="Git-Handbuch">http://www.git-scm.com/book/de</a>
 <br>
-
+</p>
 
 </article>
 <article>
