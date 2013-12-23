@@ -11,6 +11,10 @@ case "impressum":
       include("referenzen.php");
   break;
   
+  case "projekte":
+  	include("projekte.php");
+  	break;
+  
 default:
      include("home.php");
   break;
